@@ -1,0 +1,760 @@
+$ 1 0.000005 10.20027730826997 50 5 50 5e-11
+s 688 -304 688 -208 0 0 false
+s 720 -304 720 -208 0 1 false
+s 752 -304 752 -208 0 0 false
+s 848 -304 848 -208 0 0 false
+s 816 -304 816 -208 0 0 false
+s 784 -304 784 -208 0 0 false
+s 880 -304 880 -208 0 1 false
+s 912 -304 912 -208 0 1 false
+d 688 -208 688 -144 2 default
+d 720 -208 720 -144 2 default
+d 784 -208 784 -144 2 default
+d 752 -208 752 -144 2 default
+d 880 -208 880 -144 2 default
+d 912 -208 912 -144 2 default
+d 848 -208 848 -144 2 default
+d 816 -208 816 -144 2 default
+w 688 -144 720 -144 0
+w 720 -144 752 -144 0
+w 752 -144 784 -144 0
+w 784 -144 816 -144 0
+w 816 -144 848 -144 0
+w 848 -144 880 -144 0
+w 880 -144 912 -144 0
+w 592 -144 624 -144 0
+w 560 -144 592 -144 0
+w 528 -144 560 -144 0
+w 496 -144 528 -144 0
+w 464 -144 496 -144 0
+w 432 -144 464 -144 0
+w 400 -144 432 -144 0
+d 528 -208 528 -144 2 default
+d 560 -208 560 -144 2 default
+d 624 -208 624 -144 2 default
+d 592 -208 592 -144 2 default
+d 464 -208 464 -144 2 default
+d 496 -208 496 -144 2 default
+d 432 -208 432 -144 2 default
+d 400 -208 400 -144 2 default
+s 624 -304 624 -208 0 1 false
+s 592 -304 592 -208 0 1 false
+s 496 -304 496 -208 0 0 false
+s 528 -304 528 -208 0 0 false
+s 560 -304 560 -208 0 1 false
+s 464 -304 464 -208 0 0 false
+s 432 -304 432 -208 0 1 false
+s 400 -304 400 -208 0 0 false
+s 976 -304 976 -208 0 0 false
+s 1008 -304 1008 -208 0 1 false
+s 1040 -304 1040 -208 0 0 false
+s 1136 -304 1136 -208 0 0 false
+s 1104 -304 1104 -208 0 1 false
+s 1072 -304 1072 -208 0 0 false
+s 1168 -304 1168 -208 0 0 false
+s 1200 -304 1200 -208 0 1 false
+d 976 -208 976 -144 2 default
+d 1008 -208 1008 -144 2 default
+d 1072 -208 1072 -144 2 default
+d 1040 -208 1040 -144 2 default
+d 1168 -208 1168 -144 2 default
+d 1200 -208 1200 -144 2 default
+d 1136 -208 1136 -144 2 default
+d 1104 -208 1104 -144 2 default
+w 976 -144 1008 -144 0
+w 1008 -144 1040 -144 0
+w 1040 -144 1072 -144 0
+w 1072 -144 1104 -144 0
+w 1104 -144 1136 -144 0
+w 1136 -144 1168 -144 0
+w 1168 -144 1200 -144 0
+w 1456 -144 1488 -144 0
+w 1424 -144 1456 -144 0
+w 1392 -144 1424 -144 0
+w 1360 -144 1392 -144 0
+w 1328 -144 1360 -144 0
+w 1296 -144 1328 -144 0
+w 1264 -144 1296 -144 0
+d 1392 -208 1392 -144 2 default
+d 1424 -208 1424 -144 2 default
+d 1488 -208 1488 -144 2 default
+d 1456 -208 1456 -144 2 default
+d 1328 -208 1328 -144 2 default
+d 1360 -208 1360 -144 2 default
+d 1296 -208 1296 -144 2 default
+d 1264 -208 1264 -144 2 default
+s 1488 -304 1488 -208 0 0 false
+s 1456 -304 1456 -208 0 0 false
+s 1360 -304 1360 -208 0 0 false
+s 1392 -304 1392 -208 0 1 false
+s 1424 -304 1424 -208 0 1 false
+s 1328 -304 1328 -208 0 0 false
+s 1296 -304 1296 -208 0 1 false
+s 1264 -304 1264 -208 0 0 false
+s 112 -304 112 -208 0 0 false
+s 144 -304 144 -208 0 1 false
+s 176 -304 176 -208 0 0 false
+s 272 -304 272 -208 0 1 false
+s 240 -304 240 -208 0 0 false
+s 208 -304 208 -208 0 0 false
+s 304 -304 304 -208 0 1 false
+s 336 -304 336 -208 0 1 false
+d 112 -208 112 -144 2 default
+d 144 -208 144 -144 2 default
+d 208 -208 208 -144 2 default
+d 176 -208 176 -144 2 default
+d 304 -208 304 -144 2 default
+d 336 -208 336 -144 2 default
+d 272 -208 272 -144 2 default
+d 240 -208 240 -144 2 default
+w 112 -144 144 -144 0
+w 144 -144 176 -144 0
+w 176 -144 208 -144 0
+w 208 -144 240 -144 0
+w 240 -144 272 -144 0
+w 272 -144 304 -144 0
+w 304 -144 336 -144 0
+w 16 -144 48 -144 0
+w -16 -144 16 -144 0
+w -48 -144 -16 -144 0
+w -80 -144 -48 -144 0
+w -112 -144 -80 -144 0
+w -144 -144 -112 -144 0
+w -176 -144 -144 -144 0
+d -48 -208 -48 -144 2 default
+d -16 -208 -16 -144 2 default
+d 48 -208 48 -144 2 default
+d 16 -208 16 -144 2 default
+d -112 -208 -112 -144 2 default
+d -80 -208 -80 -144 2 default
+d -144 -208 -144 -144 2 default
+d -176 -208 -176 -144 2 default
+s 48 -304 48 -208 0 1 false
+s 16 -304 16 -208 0 1 false
+s -80 -304 -80 -208 0 0 false
+s -48 -304 -48 -208 0 0 false
+s -16 -304 -16 -208 0 0 false
+s -112 -304 -112 -208 0 0 false
+s -144 -304 -144 -208 0 1 false
+s -176 -304 -176 -208 0 0 false
+s -752 -304 -752 -208 0 0 false
+s -720 -304 -720 -208 0 1 false
+s -688 -304 -688 -208 0 0 false
+s -592 -304 -592 -208 0 1 false
+s -624 -304 -624 -208 0 1 false
+s -656 -304 -656 -208 0 0 false
+s -560 -304 -560 -208 0 0 false
+s -528 -304 -528 -208 0 0 false
+d -752 -208 -752 -144 2 default
+d -720 -208 -720 -144 2 default
+d -656 -208 -656 -144 2 default
+d -688 -208 -688 -144 2 default
+d -560 -208 -560 -144 2 default
+d -528 -208 -528 -144 2 default
+d -592 -208 -592 -144 2 default
+d -624 -208 -624 -144 2 default
+w -752 -144 -720 -144 0
+w -720 -144 -688 -144 0
+w -688 -144 -656 -144 0
+w -656 -144 -624 -144 0
+w -624 -144 -592 -144 0
+w -592 -144 -560 -144 0
+w -560 -144 -528 -144 0
+w -272 -144 -240 -144 0
+w -304 -144 -272 -144 0
+w -336 -144 -304 -144 0
+w -368 -144 -336 -144 0
+w -400 -144 -368 -144 0
+w -432 -144 -400 -144 0
+w -464 -144 -432 -144 0
+d -336 -208 -336 -144 2 default
+d -304 -208 -304 -144 2 default
+d -240 -208 -240 -144 2 default
+d -272 -208 -272 -144 2 default
+d -400 -208 -400 -144 2 default
+d -368 -208 -368 -144 2 default
+d -432 -208 -432 -144 2 default
+d -464 -208 -464 -144 2 default
+s -240 -304 -240 -208 0 1 false
+s -272 -304 -272 -208 0 0 false
+s -368 -304 -368 -208 0 0 false
+s -336 -304 -336 -208 0 1 false
+s -304 -304 -304 -208 0 0 false
+s -400 -304 -400 -208 0 0 false
+s -432 -304 -432 -208 0 1 false
+s -464 -304 -464 -208 0 0 false
+s -448 736 -448 832 0 0 false
+s -416 736 -416 832 0 0 false
+s -384 736 -384 832 0 0 false
+s -288 736 -288 832 0 1 false
+s -320 736 -320 832 0 1 false
+s -352 736 -352 832 0 0 false
+s -256 736 -256 832 0 1 false
+s -224 736 -224 832 0 1 false
+d -448 832 -448 896 2 default
+d -416 832 -416 896 2 default
+d -352 832 -352 896 2 default
+d -384 832 -384 896 2 default
+d -256 832 -256 896 2 default
+d -224 832 -224 896 2 default
+d -288 832 -288 896 2 default
+d -320 832 -320 896 2 default
+w -448 896 -416 896 0
+w -416 896 -384 896 0
+w -384 896 -352 896 0
+w -352 896 -320 896 0
+w -320 896 -288 896 0
+w -288 896 -256 896 0
+w -256 896 -224 896 0
+w -544 896 -512 896 0
+w -576 896 -544 896 0
+w -608 896 -576 896 0
+w -640 896 -608 896 0
+w -672 896 -640 896 0
+w -704 896 -672 896 0
+w -736 896 -704 896 0
+d -608 832 -608 896 2 default
+d -576 832 -576 896 2 default
+d -512 832 -512 896 2 default
+d -544 832 -544 896 2 default
+d -672 832 -672 896 2 default
+d -640 832 -640 896 2 default
+d -704 832 -704 896 2 default
+d -736 832 -736 896 2 default
+s -512 736 -512 832 0 0 false
+s -544 736 -544 832 0 1 false
+s -640 736 -640 832 0 0 false
+s -608 736 -608 832 0 1 false
+s -576 736 -576 832 0 1 false
+s -672 736 -672 832 0 0 false
+s -704 736 -704 832 0 1 false
+s -736 736 -736 832 0 0 false
+s -160 736 -160 832 0 0 false
+s -128 736 -128 832 0 0 false
+s -96 736 -96 832 0 0 false
+s 0 736 0 832 0 0 false
+s -32 736 -32 832 0 0 false
+s -64 736 -64 832 0 0 false
+s 32 736 32 832 0 0 false
+s 64 736 64 832 0 0 false
+d -160 832 -160 896 2 default
+d -128 832 -128 896 2 default
+d -64 832 -64 896 2 default
+d -96 832 -96 896 2 default
+d 32 832 32 896 2 default
+d 64 832 64 896 2 default
+d 0 832 0 896 2 default
+d -32 832 -32 896 2 default
+w -160 896 -128 896 0
+w -128 896 -96 896 0
+w -96 896 -64 896 0
+w -64 896 -32 896 0
+w -32 896 0 896 0
+w 0 896 32 896 0
+w 32 896 64 896 0
+w 320 896 352 896 0
+w 288 896 320 896 0
+w 256 896 288 896 0
+w 224 896 256 896 0
+w 192 896 224 896 0
+w 160 896 192 896 0
+w 128 896 160 896 0
+d 256 832 256 896 2 default
+d 288 832 288 896 2 default
+d 352 832 352 896 2 default
+d 320 832 320 896 2 default
+d 192 832 192 896 2 default
+d 224 832 224 896 2 default
+d 160 832 160 896 2 default
+d 128 832 128 896 2 default
+s 352 736 352 832 0 0 false
+s 320 736 320 832 0 0 false
+s 224 736 224 832 0 0 false
+s 256 736 256 832 0 0 false
+s 288 736 288 832 0 0 false
+s 192 736 192 832 0 0 false
+s 160 736 160 832 0 0 false
+s 128 736 128 832 0 0 false
+s 1280 736 1280 832 0 0 false
+s 1312 736 1312 832 0 0 false
+s 1344 736 1344 832 0 0 false
+s 1440 736 1440 832 0 0 false
+s 1408 736 1408 832 0 0 false
+s 1376 736 1376 832 0 0 false
+s 1472 736 1472 832 0 0 false
+s 1504 736 1504 832 0 0 false
+d 1280 832 1280 896 2 default
+d 1312 832 1312 896 2 default
+d 1376 832 1376 896 2 default
+d 1344 832 1344 896 2 default
+d 1472 832 1472 896 2 default
+d 1504 832 1504 896 2 default
+d 1440 832 1440 896 2 default
+d 1408 832 1408 896 2 default
+w 1280 896 1312 896 0
+w 1312 896 1344 896 0
+w 1344 896 1376 896 0
+w 1376 896 1408 896 0
+w 1408 896 1440 896 0
+w 1440 896 1472 896 0
+w 1472 896 1504 896 0
+w 1184 896 1216 896 0
+w 1152 896 1184 896 0
+w 1120 896 1152 896 0
+w 1088 896 1120 896 0
+w 1056 896 1088 896 0
+w 1024 896 1056 896 0
+w 992 896 1024 896 0
+d 1120 832 1120 896 2 default
+d 1152 832 1152 896 2 default
+d 1216 832 1216 896 2 default
+d 1184 832 1184 896 2 default
+d 1056 832 1056 896 2 default
+d 1088 832 1088 896 2 default
+d 1024 832 1024 896 2 default
+d 992 832 992 896 2 default
+s 1216 736 1216 832 0 0 false
+s 1184 736 1184 832 0 0 false
+s 1088 736 1088 832 0 0 false
+s 1120 736 1120 832 0 0 false
+s 1152 736 1152 832 0 0 false
+s 1056 736 1056 832 0 0 false
+s 1024 736 1024 832 0 0 false
+s 992 736 992 832 0 0 false
+s 416 736 416 832 0 0 false
+s 448 736 448 832 0 0 false
+s 480 736 480 832 0 0 false
+s 576 736 576 832 0 0 false
+s 544 736 544 832 0 0 false
+s 512 736 512 832 0 0 false
+s 608 736 608 832 0 0 false
+s 640 736 640 832 0 0 false
+d 416 832 416 896 2 default
+d 448 832 448 896 2 default
+d 512 832 512 896 2 default
+d 480 832 480 896 2 default
+d 608 832 608 896 2 default
+d 640 832 640 896 2 default
+d 576 832 576 896 2 default
+d 544 832 544 896 2 default
+w 416 896 448 896 0
+w 448 896 480 896 0
+w 480 896 512 896 0
+w 512 896 544 896 0
+w 544 896 576 896 0
+w 576 896 608 896 0
+w 608 896 640 896 0
+w 896 896 928 896 0
+w 864 896 896 896 0
+w 832 896 864 896 0
+w 800 896 832 896 0
+w 768 896 800 896 0
+w 736 896 768 896 0
+w 704 896 736 896 0
+d 832 832 832 896 2 default
+d 864 832 864 896 2 default
+d 928 832 928 896 2 default
+d 896 832 896 896 2 default
+d 768 832 768 896 2 default
+d 800 832 800 896 2 default
+d 736 832 736 896 2 default
+d 704 832 704 896 2 default
+s 928 736 928 832 0 0 false
+s 896 736 896 832 0 0 false
+s 800 736 800 832 0 0 false
+s 832 736 832 832 0 0 false
+s 864 736 864 832 0 0 false
+s 768 736 768 832 0 0 false
+s 736 736 736 832 0 0 false
+s 704 736 704 832 0 0 false
+I 1872 368 1968 368 0 0.5 5
+207 1968 368 2048 368 4 IM1
+207 1968 400 2048 400 4 IM2
+I 1872 400 1968 400 0 0.5 5
+I 1872 464 1968 464 0 0.5 5
+207 1968 464 2048 464 4 IM4
+207 1968 432 2048 432 4 IM3
+I 1872 432 1968 432 0 0.5 5
+I 1872 560 1968 560 0 0.5 5
+207 1968 560 2048 560 4 OP3
+207 1968 592 2048 592 4 OP4
+I 1872 592 1968 592 0 0.5 5
+I 1872 528 1968 528 0 0.5 5
+207 1968 528 2048 528 4 OP2
+207 1968 496 2048 496 4 OP1
+I 1872 496 1968 496 0 0.5 5
+w -512 368 -512 736 0
+w -224 368 -224 736 0
+w 352 368 352 736 0
+w 64 368 64 736 0
+w 1216 368 1216 736 0
+w 1504 368 1504 736 0
+w 928 368 928 736 0
+w 640 368 640 736 0
+w -512 368 -224 368 0
+w -224 368 64 368 0
+w 64 368 352 368 0
+w 352 368 640 368 0
+w 640 368 928 368 0
+w 928 368 1216 368 0
+w 1216 368 1504 368 0
+w 1504 368 1824 368 0
+w 1792 400 1472 400 0
+w 1472 400 1472 736 0
+w 1184 400 1184 736 0
+w 1184 400 1472 400 0
+w 896 400 1184 400 0
+w 896 400 896 736 0
+w 320 400 608 400 0
+w 608 400 896 400 0
+w 608 400 608 736 0
+w -256 400 32 400 0
+w 32 400 320 400 0
+w 32 400 32 736 0
+w -544 400 -256 400 0
+w -544 400 -544 736 0
+w 1760 432 1440 432 0
+w 1440 432 1440 736 0
+w 1152 432 1152 736 0
+w 1440 432 1152 432 0
+w 1152 432 864 432 0
+w 864 432 864 736 0
+w 576 432 576 736 0
+w 864 432 576 432 0
+w 576 432 288 432 0
+w 288 432 288 736 0
+w 320 736 320 400 0
+w -256 736 -256 400 0
+w 0 432 0 736 0
+w 288 432 0 432 0
+w 0 432 -288 432 0
+w -288 432 -288 736 0
+w -288 432 -576 432 0
+w -576 432 -576 736 0
+w 1728 464 1408 464 0
+w 1408 464 1408 736 0
+w 1120 464 1120 736 0
+w 1408 464 1120 464 0
+w 1120 464 832 464 0
+w 832 464 832 736 0
+w 544 464 544 736 0
+w 832 464 544 464 0
+w 544 464 256 464 0
+w 256 464 256 736 0
+w -32 464 -32 736 0
+w 256 464 -32 464 0
+w -32 464 -320 464 0
+w -320 464 -320 736 0
+w -320 464 -608 464 0
+w -608 464 -608 736 0
+w 1696 496 1376 496 0
+w 1376 496 1376 736 0
+w 1088 496 1088 736 0
+w 1376 496 1088 496 0
+w 1088 496 800 496 0
+w 800 496 800 736 0
+w 512 496 512 736 0
+w 800 496 512 496 0
+w 224 496 224 736 0
+w 512 496 224 496 0
+w -64 496 -64 736 0
+w 224 496 -64 496 0
+w -352 496 -352 736 0
+w -64 496 -352 496 0
+w -352 496 -640 496 0
+w -640 496 -640 736 0
+w 1664 528 1344 528 0
+w 1344 528 1344 736 0
+w 1056 528 1056 736 0
+w 1344 528 1056 528 0
+w 1056 528 768 528 0
+w 768 528 768 736 0
+w 768 528 480 528 0
+w 480 528 480 736 0
+w 480 528 192 528 0
+w 192 528 192 736 0
+w 192 528 -96 528 0
+w -96 528 -96 736 0
+w -96 528 -384 528 0
+w -384 528 -384 736 0
+w -384 528 -672 528 0
+w -672 528 -672 736 0
+w 1632 560 1312 560 0
+w 1312 560 1312 736 0
+w 1024 560 1024 736 0
+w 1024 560 1312 560 0
+w 736 560 1024 560 0
+w 736 560 736 736 0
+w 448 560 448 736 0
+w 448 560 736 560 0
+w 160 560 160 736 0
+w 160 560 448 560 0
+w -128 560 -128 736 0
+w -128 560 160 560 0
+w -416 560 -416 736 0
+w -416 560 -128 560 0
+w -704 560 -704 736 0
+w -704 560 -416 560 0
+w 1600 592 1280 592 0
+w 1280 592 1280 736 0
+w 992 592 992 736 0
+w 1280 592 992 592 0
+w 992 592 704 592 0
+w 704 592 704 736 0
+w 704 592 416 592 0
+w 416 592 416 736 0
+w 416 592 128 592 0
+w 128 592 128 736 0
+w 128 592 -160 592 0
+w -160 592 -160 736 0
+w -160 592 -448 592 0
+w -448 592 -448 736 0
+w -448 592 -736 592 0
+w -736 592 -736 736 0
+w -752 -448 -752 -304 0
+w -464 -448 -752 -448 0
+w -464 -448 -464 -304 0
+w -176 -448 -464 -448 0
+w -176 -448 -176 -304 0
+w 112 -448 -176 -448 0
+w 112 -448 112 -304 0
+w 400 -448 112 -448 0
+w 400 -448 400 -304 0
+w 688 -448 400 -448 0
+w 688 -448 688 -304 0
+w 976 -448 688 -448 0
+w 1264 -448 976 -448 0
+w 976 -448 976 -304 0
+w 1264 -448 1264 -304 0
+w 1584 -448 1264 -448 0
+w -720 -480 -432 -480 0
+w -720 -480 -720 -304 0
+w -432 -480 -144 -480 0
+w -432 -480 -432 -304 0
+w -144 -480 144 -480 0
+w -144 -480 -144 -304 0
+w 144 -480 432 -480 0
+w 144 -480 144 -304 0
+w 432 -480 720 -480 0
+w 432 -480 432 -304 0
+w 720 -480 720 -304 0
+w 720 -480 1008 -480 0
+w 1008 -480 1296 -480 0
+w 1008 -480 1008 -304 0
+w 1296 -480 1296 -304 0
+w 1616 -480 1296 -480 0
+w -688 -512 -688 -304 0
+w -400 -512 -688 -512 0
+w -400 -512 -400 -304 0
+w -112 -512 -400 -512 0
+w -112 -512 -112 -304 0
+w 176 -512 -112 -512 0
+w 176 -512 176 -304 0
+w 464 -512 176 -512 0
+w 464 -512 464 -304 0
+w 752 -512 464 -512 0
+w 752 -512 752 -304 0
+w 1040 -512 752 -512 0
+w 1328 -512 1040 -512 0
+w 1040 -512 1040 -304 0
+w 1328 -512 1328 -304 0
+w 1648 -512 1328 -512 0
+w -656 -544 -656 -304 0
+w -368 -544 -656 -544 0
+w -80 -544 -368 -544 0
+w -368 -544 -368 -304 0
+w 208 -544 -80 -544 0
+w -80 -544 -80 -304 0
+w 496 -544 208 -544 0
+w 208 -544 208 -304 0
+w 784 -544 496 -544 0
+w 496 -544 496 -304 0
+w 784 -544 784 -304 0
+w 1072 -544 784 -544 0
+w 1360 -544 1072 -544 0
+w 1072 -544 1072 -304 0
+w 1360 -544 1360 -304 0
+w 1680 -544 1360 -544 0
+w -624 -576 -624 -304 0
+w -336 -576 -624 -576 0
+w -336 -576 -336 -304 0
+w -48 -576 -336 -576 0
+w 240 -576 -48 -576 0
+w -48 -576 -48 -304 0
+w 240 -576 240 -304 0
+w 528 -576 240 -576 0
+w 816 -576 528 -576 0
+w 528 -576 528 -304 0
+w 816 -576 816 -304 0
+w 1104 -576 816 -576 0
+w 1392 -576 1104 -576 0
+w 1104 -576 1104 -304 0
+w 1392 -576 1392 -304 0
+w 1712 -576 1392 -576 0
+w -592 -608 -592 -304 0
+w -304 -608 -592 -608 0
+w -304 -608 -304 -304 0
+w -16 -608 -304 -608 0
+w 272 -608 -16 -608 0
+w -16 -608 -16 -304 0
+w -272 -304 -272 -640 0
+w 304 -304 304 -640 0
+w 272 -608 272 -304 0
+w 560 -608 272 -608 0
+w 848 -608 560 -608 0
+w 560 -608 560 -304 0
+w 848 -608 848 -304 0
+w 1136 -608 848 -608 0
+w 1424 -608 1136 -608 0
+w 1136 -608 1136 -304 0
+w 1424 -608 1424 -304 0
+w 1744 -608 1424 -608 0
+w -560 -640 -560 -304 0
+w -560 -640 -272 -640 0
+w 16 -640 16 -304 0
+w 16 -640 304 -640 0
+w -272 -640 16 -640 0
+w 592 -640 592 -304 0
+w 592 -640 880 -640 0
+w 304 -640 592 -640 0
+w 880 -640 880 -304 0
+w 880 -640 1168 -640 0
+w 1168 -640 1456 -640 0
+w 1168 -640 1168 -304 0
+w 1456 -640 1456 -304 0
+w 1776 -640 1456 -640 0
+w 1488 -672 1808 -672 0
+w 1200 -672 1488 -672 0
+w 912 -672 1200 -672 0
+w 624 -672 912 -672 0
+w 336 -672 624 -672 0
+w 48 -672 336 -672 0
+w -240 -672 48 -672 0
+w -528 -672 -240 -672 0
+w 624 -672 624 -304 0
+w 912 -672 912 -304 0
+w 1488 -672 1488 -304 0
+w 1200 -672 1200 -304 0
+w 48 -672 48 -304 0
+w 336 -672 336 -304 0
+w -240 -672 -240 -304 0
+w -528 -672 -528 -304 0
+w 1808 -448 1808 -672 0
+w 1776 -416 1776 -640 0
+w 1712 -352 1712 -576 0
+w 1744 -384 1744 -608 0
+w 1632 560 1616 -256 0
+w 1600 592 1584 -224 0
+w 1648 -288 1648 -512 0
+w 1680 -320 1680 -544 0
+w 1872 368 1824 368 0
+w 1792 400 1872 400 0
+w 1760 432 1872 432 0
+w 1728 464 1872 464 0
+w 1696 496 1872 496 0
+w 1664 528 1872 528 0
+w 1632 560 1872 560 0
+w 1600 592 1872 592 0
+r 1808 -448 1952 -448 0 10000
+R 1952 -448 2032 -448 0 0 40 5 0 0 0.5
+R 1952 -416 2032 -416 0 0 40 5 0 0 0.5
+r 1808 -416 1952 -416 0 10000
+r 1808 -352 1952 -352 0 10000
+R 1952 -352 2032 -352 0 0 40 5 0 0 0.5
+R 1952 -384 2032 -384 0 0 40 5 0 0 0.5
+r 1808 -384 1952 -384 0 10000
+r 1808 -256 1952 -256 0 10000
+R 1952 -256 2032 -256 0 0 40 5 0 0 0.5
+R 1952 -224 2032 -224 0 0 40 5 0 0 0.5
+r 1808 -224 1952 -224 0 10000
+r 1808 -288 1952 -288 0 10000
+R 1952 -288 2032 -288 0 0 40 5 0 0 0.5
+R 1952 -320 2032 -320 0 0 40 5 0 0 0.5
+r 1808 -320 1952 -320 0 10000
+w 1776 -416 1792 400 0
+w 1824 368 1808 -448 0
+w 1808 -416 1776 -416 0
+w 1744 -384 1808 -384 0
+w 1744 -384 1760 432 0
+w 1808 -352 1712 -352 0
+w 1712 -352 1728 464 0
+w 1808 -320 1680 -320 0
+w 1680 -320 1696 496 0
+w 1664 528 1648 -288 0
+w 1648 -288 1808 -288 0
+w 1616 -256 1808 -256 0
+w 1616 -256 1616 -480 0
+w 1584 -224 1808 -224 0
+w 1584 -224 1584 -448 0
+. SW2 0 2 4 6 00 3 0 3 01 5 1 3 10 8 2 3 11 7 3 3 A 4 0 2 B 6 1 2 AndGateElm\s1\s2\s3\rAndGateElm\s1\s4\s5\rAndGateElm\s6\s4\s7\rAndGateElm\s6\s2\s8\rInverterElm\s4\s2\rInverterElm\s6\s1 0\\s2\\s5\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5
+. SW4 0 2 16 20 0 15 0 3 1 1 1 3 10 33 10 3 11 35 11 3 12 37 12 3 13 39 13 3 14 41 14 3 15 19 15 3 2 13 2 3 3 11 3 3 4 17 4 3 5 21 5 3 6 23 6 3 7 25 7 3 8 27 8 3 9 31 9 3 A 3 0 2 B 5 1 2 C 7 2 2 D 9 3 2 AndGateElm\s29\s30\s15\rCustomCompositeElm\s30\s43\s44\s45\s3\s5\rCustomCompositeElm\s29\s48\s49\s50\s7\s9\rAndGateElm\s29\s43\s1\rAndGateElm\s29\s45\s11\rAndGateElm\s29\s44\s13\rAndGateElm\s48\s44\s23\rAndGateElm\s48\s45\s25\rAndGateElm\s48\s43\s21\rAndGateElm\s48\s30\s17\rAndGateElm\s50\s30\s37\rAndGateElm\s50\s43\s39\rAndGateElm\s50\s45\s19\rAndGateElm\s50\s44\s41\rAndGateElm\s49\s44\s33\rAndGateElm\s49\s45\s35\rAndGateElm\s49\s43\s31\rAndGateElm\s49\s30\s27 0\\s2\\s5\\s5\s1\\sSW2\\s0\\\\s2\\\\s5\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s0.5\\\\s5\\s0\\\\s0.5\\\\s5\s1\\sSW2\\s0\\\\s2\\\\s5\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s0.5\\\\s5\\s0\\\\s0.5\\\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5
+410 -1344 -144 -1312 -80 1 SW4 0\s2\s0\s5 1\sSW2\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5 1\sSW2\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5 0\s2\s0\s5
+w -752 -144 -1152 -144 0
+w -1152 -112 -464 -112 0
+w -1152 -80 -176 -80 0
+w -1152 -48 112 -48 0
+w -1152 -16 400 -16 0
+w -1152 16 688 16 0
+w -1152 48 976 48 0
+w -1152 80 1264 80 0
+w 1264 80 1264 -144 0
+w 976 48 976 -144 0
+w 688 16 688 -144 0
+w 400 -16 400 -144 0
+w 112 -48 112 -144 0
+w -176 -80 -176 -144 0
+w -464 -112 -464 -144 0
+w -1152 336 -1152 1120 0
+w -1120 304 -1120 1088 0
+w -1088 272 -1088 1056 0
+w -1056 240 -1056 1024 0
+w -1024 208 -1024 992 0
+w -992 176 -992 960 0
+w -960 144 -960 928 0
+w -928 112 -928 896 0
+w -1152 112 -928 112 0
+w -1152 144 -960 144 0
+w -1152 176 -992 176 0
+w -1152 208 -1024 208 0
+w -1152 240 -1056 240 0
+w -1152 272 -1088 272 0
+w -1152 304 -1120 304 0
+w -1152 1120 1280 1120 0
+w -1120 1088 992 1088 0
+w -1088 1056 704 1056 0
+w -1056 1024 416 1024 0
+w -1024 992 128 992 0
+w -992 960 -160 960 0
+w -960 928 -448 928 0
+w -736 896 -928 896 0
+w 1280 896 1280 1120 0
+w 992 1088 992 896 0
+w 704 1056 704 896 0
+w 416 1024 416 896 0
+w 128 992 128 896 0
+w -160 960 -160 896 0
+w -448 928 -448 896 0
+I -1248 -16 -1152 -16 0 0.5 5
+I -1248 16 -1152 16 0 0.5 5
+I -1248 80 -1152 80 0 0.5 5
+I -1248 48 -1152 48 0 0.5 5
+I -1248 -80 -1152 -80 0 0.5 5
+I -1248 -48 -1152 -48 0 0.5 5
+I -1248 -112 -1152 -112 0 0.5 5
+I -1248 -144 -1152 -144 0 0.5 5
+I -1248 112 -1152 112 0 0.5 5
+I -1248 144 -1152 144 0 0.5 5
+I -1248 208 -1152 208 0 0.5 5
+I -1248 176 -1152 176 0 0.5 5
+I -1248 304 -1152 304 0 0.5 5
+I -1248 336 -1152 336 0 0.5 5
+I -1248 272 -1152 272 0 0.5 5
+I -1248 240 -1152 240 0 0.5 5
+207 -1344 -144 -1424 -144 4 A
+207 -1344 -112 -1424 -112 4 B
+207 -1344 -48 -1424 -48 4 D
+207 -1344 -80 -1424 -80 4 C
+x 228 -1153 283 -1150 4 24 ROM
+. ROM 0 2 8 12 A 193 4 2 B 194 5 2 C 195 6 2 D 196 7 2 IM1 153 0 3 IM2 155 1 3 IM3 159 2 3 IM4 157 3 3 OP1 167 4 3 OP2 165 5 3 OP3 161 6 3 OP4 163 7 3 SwitchElm\s1\s2\rSwitchElm\s3\s4\rSwitchElm\s5\s6\rSwitchElm\s7\s8\rSwitchElm\s9\s10\rSwitchElm\s11\s12\rSwitchElm\s13\s14\rSwitchElm\s15\s16\rDiodeElm\s2\s17\rDiodeElm\s4\s17\rDiodeElm\s12\s17\rDiodeElm\s6\s17\rDiodeElm\s14\s17\rDiodeElm\s16\s17\rDiodeElm\s8\s17\rDiodeElm\s10\s17\rDiodeElm\s19\s18\rDiodeElm\s20\s18\rDiodeElm\s21\s18\rDiodeElm\s22\s18\rDiodeElm\s23\s18\rDiodeElm\s24\s18\rDiodeElm\s25\s18\rDiodeElm\s26\s18\rSwitchElm\s15\s21\rSwitchElm\s13\s22\rSwitchElm\s11\s24\rSwitchElm\s9\s19\rSwitchElm\s7\s20\rSwitchElm\s5\s23\rSwitchElm\s3\s25\rSwitchElm\s1\s26\rSwitchElm\s1\s27\rSwitchElm\s3\s28\rSwitchElm\s5\s29\rSwitchElm\s7\s30\rSwitchElm\s9\s31\rSwitchElm\s11\s32\rSwitchElm\s13\s33\rSwitchElm\s15\s34\rDiodeElm\s27\s35\rDiodeElm\s28\s35\rDiodeElm\s32\s35\rDiodeElm\s29\s35\rDiodeElm\s33\s35\rDiodeElm\s34\s35\rDiodeElm\s30\s35\rDiodeElm\s31\s35\rDiodeElm\s37\s36\rDiodeElm\s38\s36\rDiodeElm\s39\s36\rDiodeElm\s40\s36\rDiodeElm\s41\s36\rDiodeElm\s42\s36\rDiodeElm\s43\s36\rDiodeElm\s44\s36\rSwitchElm\s15\s39\rSwitchElm\s13\s40\rSwitchElm\s11\s42\rSwitchElm\s9\s37\rSwitchElm\s7\s38\rSwitchElm\s5\s41\rSwitchElm\s3\s43\rSwitchElm\s1\s44\rSwitchElm\s1\s45\rSwitchElm\s3\s46\rSwitchElm\s5\s47\rSwitchElm\s7\s48\rSwitchElm\s9\s49\rSwitchElm\s11\s50\rSwitchElm\s13\s51\rSwitchElm\s15\s52\rDiodeElm\s45\s53\rDiodeElm\s46\s53\rDiodeElm\s50\s53\rDiodeElm\s47\s53\rDiodeElm\s51\s53\rDiodeElm\s52\s53\rDiodeElm\s48\s53\rDiodeElm\s49\s53\rDiodeElm\s55\s54\rDiodeElm\s56\s54\rDiodeElm\s57\s54\rDiodeElm\s58\s54\rDiodeElm\s59\s54\rDiodeElm\s60\s54\rDiodeElm\s61\s54\rDiodeElm\s62\s54\rSwitchElm\s15\s57\rSwitchElm\s13\s58\rSwitchElm\s11\s60\rSwitchElm\s9\s55\rSwitchElm\s7\s56\rSwitchElm\s5\s59\rSwitchElm\s3\s61\rSwitchElm\s1\s62\rSwitchElm\s1\s63\rSwitchElm\s3\s64\rSwitchElm\s5\s65\rSwitchElm\s7\s66\rSwitchElm\s9\s67\rSwitchElm\s11\s68\rSwitchElm\s13\s69\rSwitchElm\s15\s70\rDiodeElm\s63\s71\rDiodeElm\s64\s71\rDiodeElm\s68\s71\rDiodeElm\s65\s71\rDiodeElm\s69\s71\rDiodeElm\s70\s71\rDiodeElm\s66\s71\rDiodeElm\s67\s71\rDiodeElm\s73\s72\rDiodeElm\s74\s72\rDiodeElm\s75\s72\rDiodeElm\s76\s72\rDiodeElm\s77\s72\rDiodeElm\s78\s72\rDiodeElm\s79\s72\rDiodeElm\s80\s72\rSwitchElm\s15\s75\rSwitchElm\s13\s76\rSwitchElm\s11\s78\rSwitchElm\s9\s73\rSwitchElm\s7\s74\rSwitchElm\s5\s77\rSwitchElm\s3\s79\rSwitchElm\s1\s80\rSwitchElm\s1\s81\rSwitchElm\s3\s82\rSwitchElm\s5\s83\rSwitchElm\s7\s84\rSwitchElm\s9\s85\rSwitchElm\s11\s86\rSwitchElm\s13\s87\rSwitchElm\s15\s88\rDiodeElm\s81\s89\rDiodeElm\s82\s89\rDiodeElm\s86\s89\rDiodeElm\s83\s89\rDiodeElm\s87\s89\rDiodeElm\s88\s89\rDiodeElm\s84\s89\rDiodeElm\s85\s89\rDiodeElm\s91\s90\rDiodeElm\s92\s90\rDiodeElm\s93\s90\rDiodeElm\s94\s90\rDiodeElm\s95\s90\rDiodeElm\s96\s90\rDiodeElm\s97\s90\rDiodeElm\s98\s90\rSwitchElm\s15\s93\rSwitchElm\s13\s94\rSwitchElm\s11\s96\rSwitchElm\s9\s91\rSwitchElm\s7\s92\rSwitchElm\s5\s95\rSwitchElm\s3\s97\rSwitchElm\s1\s98\rSwitchElm\s1\s99\rSwitchElm\s3\s100\rSwitchElm\s5\s101\rSwitchElm\s7\s102\rSwitchElm\s9\s103\rSwitchElm\s11\s104\rSwitchElm\s13\s105\rSwitchElm\s15\s106\rDiodeElm\s99\s107\rDiodeElm\s100\s107\rDiodeElm\s104\s107\rDiodeElm\s101\s107\rDiodeElm\s105\s107\rDiodeElm\s106\s107\rDiodeElm\s102\s107\rDiodeElm\s103\s107\rDiodeElm\s109\s108\rDiodeElm\s110\s108\rDiodeElm\s111\s108\rDiodeElm\s112\s108\rDiodeElm\s113\s108\rDiodeElm\s114\s108\rDiodeElm\s115\s108\rDiodeElm\s116\s108\rSwitchElm\s15\s111\rSwitchElm\s13\s112\rSwitchElm\s11\s114\rSwitchElm\s9\s109\rSwitchElm\s7\s110\rSwitchElm\s5\s113\rSwitchElm\s3\s115\rSwitchElm\s1\s116\rSwitchElm\s1\s117\rSwitchElm\s3\s118\rSwitchElm\s5\s119\rSwitchElm\s7\s120\rSwitchElm\s9\s121\rSwitchElm\s11\s122\rSwitchElm\s13\s123\rSwitchElm\s15\s124\rDiodeElm\s117\s125\rDiodeElm\s118\s125\rDiodeElm\s122\s125\rDiodeElm\s119\s125\rDiodeElm\s123\s125\rDiodeElm\s124\s125\rDiodeElm\s120\s125\rDiodeElm\s121\s125\rDiodeElm\s127\s126\rDiodeElm\s128\s126\rDiodeElm\s129\s126\rDiodeElm\s130\s126\rDiodeElm\s131\s126\rDiodeElm\s132\s126\rDiodeElm\s133\s126\rDiodeElm\s134\s126\rSwitchElm\s15\s129\rSwitchElm\s13\s130\rSwitchElm\s11\s132\rSwitchElm\s9\s127\rSwitchElm\s7\s128\rSwitchElm\s5\s131\rSwitchElm\s3\s133\rSwitchElm\s1\s134\rSwitchElm\s1\s135\rSwitchElm\s3\s136\rSwitchElm\s5\s137\rSwitchElm\s7\s138\rSwitchElm\s9\s139\rSwitchElm\s11\s140\rSwitchElm\s13\s141\rSwitchElm\s15\s142\rDiodeElm\s135\s143\rDiodeElm\s136\s143\rDiodeElm\s140\s143\rDiodeElm\s137\s143\rDiodeElm\s141\s143\rDiodeElm\s142\s143\rDiodeElm\s138\s143\rDiodeElm\s139\s143\rDiodeElm\s145\s144\rDiodeElm\s146\s144\rDiodeElm\s147\s144\rDiodeElm\s148\s144\rDiodeElm\s149\s144\rDiodeElm\s150\s144\rDiodeElm\s151\s144\rDiodeElm\s152\s144\rSwitchElm\s15\s147\rSwitchElm\s13\s148\rSwitchElm\s11\s150\rSwitchElm\s9\s145\rSwitchElm\s7\s146\rSwitchElm\s5\s149\rSwitchElm\s3\s151\rSwitchElm\s1\s152\rInverterElm\s15\s153\rInverterElm\s13\s155\rInverterElm\s9\s157\rInverterElm\s7\s159\rInverterElm\s3\s161\rInverterElm\s1\s163\rInverterElm\s5\s165\rInverterElm\s11\s167\rResistorElm\s15\s169\rRailElm\s169\rRailElm\s170\rResistorElm\s13\s170\rResistorElm\s9\s171\rRailElm\s171\rRailElm\s172\rResistorElm\s7\s172\rResistorElm\s3\s173\rRailElm\s173\rRailElm\s174\rResistorElm\s1\s174\rResistorElm\s5\s175\rRailElm\s175\rRailElm\s176\rResistorElm\s11\s176\rCustomCompositeElm\s177\s178\s179\s180\s181\s182\s183\s184\s185\s186\s187\s188\s189\s190\s191\s192\s193\s194\s195\s196\rInverterElm\s187\s18\rInverterElm\s188\s17\rInverterElm\s190\s36\rInverterElm\s189\s35\rInverterElm\s185\s54\rInverterElm\s186\s53\rInverterElm\s178\s72\rInverterElm\s177\s71\rInverterElm\s191\s90\rInverterElm\s192\s89\rInverterElm\s180\s108\rInverterElm\s179\s107\rInverterElm\s183\s126\rInverterElm\s184\s125\rInverterElm\s182\s144\rInverterElm\s181\s143 0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s1\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s1\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s1\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s2\\sdefault\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0\\sfalse\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s10000\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s10000\s0\\s10000\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s10000\s0\\s10000\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s10000\s0\\s10000\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s0\\s40\\s5\\s0\\s0\\s0.5\s0\\s10000\s1\\sSW4\\s0\\\\s2\\\\s5\\\\s5\\s1\\\\sSW2\\\\s0\\\\\\\\s2\\\\\\\\s5\\\\\\\\s5\\\\s0\\\\\\\\s2\\\\\\\\s0\\\\\\\\s5\\\\s0\\\\\\\\s2\\\\\\\\s0\\\\\\\\s5\\\\s0\\\\\\\\s2\\\\\\\\s0\\\\\\\\s5\\\\s0\\\\\\\\s0.5\\\\\\\\s5\\\\s0\\\\\\\\s0.5\\\\\\\\s5\\s1\\\\sSW2\\\\s0\\\\\\\\s2\\\\\\\\s5\\\\\\\\s5\\\\s0\\\\\\\\s2\\\\\\\\s0\\\\\\\\s5\\\\s0\\\\\\\\s2\\\\\\\\s0\\\\\\\\s5\\\\s0\\\\\\\\s2\\\\\\\\s0\\\\\\\\s5\\\\s0\\\\\\\\s0.5\\\\\\\\s5\\\\s0\\\\\\\\s0.5\\\\\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5\s0\\s0.5\\s5
+410 208 -1104 -3616 -1840 1 ROM 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s1\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s1\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s1\sfalse 0\s0\sfalse 0\s1\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 2\sdefault 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0\sfalse 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s10000 0\s0\s40\s5\s0\s0\s0.5 0\s0\s40\s5\s0\s0\s0.5 0\s10000 0\s10000 0\s0\s40\s5\s0\s0\s0.5 0\s0\s40\s5\s0\s0\s0.5 0\s10000 0\s10000 0\s0\s40\s5\s0\s0\s0.5 0\s0\s40\s5\s0\s0\s0.5 0\s10000 0\s10000 0\s0\s40\s5\s0\s0\s0.5 0\s0\s40\s5\s0\s0\s0.5 0\s10000 1\sSW4\s0\\s2\\s0\\s5\s1\\sSW2\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s0.5\\\\s5\\s0\\\\s0.5\\\\s5\s1\\sSW2\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s2\\\\s0\\\\s5\\s0\\\\s0.5\\\\s5\\s0\\\\s0.5\\\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5\s0\\s2\\s0\\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5 0\s0.5\s5
+b -1456 -752 2106 1180 0

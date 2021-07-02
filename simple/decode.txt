@@ -26,6 +26,14 @@ x 720 -154 828 -151 4 24 OP_DATA
 207 816 -112 880 -112 4 D0
 207 816 0 880 0 4 D1
 x 732 -1135 810 -1132 4 24 decode
-b 543 -781 1001 182 0
-. decode 0 2 7 13 A0 21 0 2 A1 17 1 2 A2 9 2 2 A3 13 3 2 B0 1 4 2 B1 5 5 2 C0 22 0 3 C1 18 1 3 C2 10 2 3 C3 14 3 3 CLK 24 0 1 D0 2 4 3 D1 6 5 3 DFlipFlopElm\s1\s2\s3\s24\rDFlipFlopElm\s5\s6\s7\s24\rDFlipFlopElm\s9\s10\s11\s24\rDFlipFlopElm\s13\s14\s15\s24\rDFlipFlopElm\s17\s18\s19\s24\rDFlipFlopElm\s21\s22\s23\s24 0\\s0\s0\\s0\s0\\s0\s0\\s0\s0\\s0\s0\\s0
-410 720 -1072 736 -1008 1 decode 0\s0 0\s0 0\s0 0\s0 0\s0 0\s0
+207 816 224 880 224 4 D3
+207 816 112 880 112 4 D2
+207 720 144 656 144 4 CLK
+207 720 256 656 256 4 CLK
+207 720 112 656 112 4 B2
+207 720 224 656 224 4 B3
+155 720 224 752 224 0 0
+155 720 112 752 112 0 0
+. decode 0 2 9 17 A0 21 0 2 A1 17 1 2 A2 9 2 2 A3 13 3 2 B0 1 4 2 B1 5 5 2 B2 44 6 2 B3 46 7 2 C0 22 0 3 C1 18 1 3 C2 10 2 3 C3 14 3 3 CLK 24 0 1 D0 2 4 3 D1 6 5 3 D2 40 6 3 D3 38 7 3 DFlipFlopElm\s1\s2\s3\s24\rDFlipFlopElm\s5\s6\s7\s24\rDFlipFlopElm\s9\s10\s11\s24\rDFlipFlopElm\s13\s14\s15\s24\rDFlipFlopElm\s17\s18\s19\s24\rDFlipFlopElm\s21\s22\s23\s24\rDFlipFlopElm\s46\s38\s48\s24\rDFlipFlopElm\s44\s40\s49\s24 0\\s0\s0\\s0\s0\\s0\s0\\s0\s0\\s0\s0\\s0\s0\\s0\s0\\s0
+410 720 -1088 768 -1040 1 decode 0\s0 0\s0 0\s0 0\s0 0\s0 0\s0 0\s0 0\s0
+b 592 -768 967 348 0
